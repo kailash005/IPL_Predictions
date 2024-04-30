@@ -31,6 +31,7 @@ This repository contains the following files:
 
 - `IPL_Predictions.py`: The main Python script where the magic happens! 🧙‍♂️
 - `matches.csv`: The historical cricket match data that we'll be using to train our model.
+- `clean_matches.csv`: The cleansed historical cricket match data that is used train our model.
 - `README.md`: This fun and informative file you're currently reading. 📖
 
 ## 🏏 The Journey
