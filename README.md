@@ -21,7 +21,7 @@ To kick off this cricketing extravaganza, you'll need to have Python installed o
 Once you've got those covered, simply clone this repository and let the game begin!
 
 ```bash
-git clone https://github.com/your-username/IPL_Predictions.git
+https://github.com/kailash005/IPL_Predictions.git
 cd IPL_Predictions
 ```
 
